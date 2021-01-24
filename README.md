@@ -1,6 +1,6 @@
 # Profile-Card-CSS
 
-## A sample profile template made using vanilla CSS3 and a little bit of javascript
+## A sample profile template made using vanilla CSS3 and a little bit of javascript.
 
 ### What does it cover?
 
