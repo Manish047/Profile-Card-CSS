@@ -4,9 +4,9 @@
 
 ### What does it cover?
 
-Glassmorphism UI
-MediaQueries
-Animations
+Glassmorphism UI<br/>
+MediaQueries<br/>
+Animations<br/>
 Responsiveness
 
 ### How does it look?
