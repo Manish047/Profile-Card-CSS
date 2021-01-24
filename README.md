@@ -7,6 +7,7 @@
 Glassmorphism UI<br/>
 MediaQueries<br/>
 Animations<br/>
+FlexBox<br/>
 Responsiveness
 
 ### How does it look?
